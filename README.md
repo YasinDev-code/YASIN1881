@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,linux,npm,postman" />
   </a>
 </p>
 
