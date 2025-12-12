@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,linux,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,linux,npm,postman,vite" />
   </a>
 </p>
 
